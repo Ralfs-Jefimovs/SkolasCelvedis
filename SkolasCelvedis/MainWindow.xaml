@@ -1,0 +1,19 @@
+﻿<Window x:Class="SkolasCelvedis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkolasCelvedis"
+        xmlns:svgc="http://sharpvectors.codeplex.com/svgc/"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="22*"/>
+        </Grid.ColumnDefinitions>
+        <!-- SVG Image using SharpVectors -->
+        <svgc:SvgViewbox x:Name="FloorSvgViewbox" Source="/Floors/first_floor.svg" Grid.ColumnSpan="2"></svgc:SvgViewbox>
+        <Button x:Name="ChangeButton" Content="Change Floors" Cursor="Hand" Width="120" HorizontalAlignment="Left" Click="ChangeButton_Click" Margin="0,508,0,304" />
+    </Grid>
+</Window>
