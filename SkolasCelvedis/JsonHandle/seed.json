@@ -1,0 +1,1739 @@
+{
+    "floors": [
+        {
+            "Id": 1,
+            "Name": "Pirmais stāvs",
+            "SVGFile": "first_floor.svg",
+            "BuildingName": "Administratīvais korpuss"
+        },
+
+        {
+            "Id": 2,
+            "Name": "Otrais stāvs",
+            "SVGFile": "second_floor.svg",
+            "BuildingName": "Administratīvais korpuss"
+        },
+
+        {
+            "Id": 3,
+            "Name": "Trešais stāvs",
+            "SVGFile": "third_floor.svg",
+            "BuildingName": "Administratīvais korpuss"
+        },
+
+        {
+            "Id": 4,
+            "Name": "Pirmais stāvs",
+            "SVGFile": "2_first_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 5,
+            "Name": "Otrais stāvs",
+            "SVGFile": "2_second_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 6,
+            "Name": "Trešais stāvs",
+            "SVGFile": "2_third_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 7,
+            "Name": "Ceturtais stāvs",
+            "SVGFile": "2_fourth_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 8,
+            "Name": "Piektais stāvs",
+            "SVGFile": "2_fifth_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 9,
+            "Name": "Sestais stāvs",
+            "SVGFile": "2_sixth_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 10,
+            "Name": "Galvenā ieeja",
+            "SVGFile": "main_entrance_floor.svg",
+            "BuildingName": "Laboratorijas korpuss"
+        },
+        {
+            "Id": 11,
+            "Name": "Darbnīcas",
+            "SVGFile": "workshop_floor.svg",
+            "BuildingName": "Darbnīcas"
+        }
+    ],
+
+    "rooms": [
+        {
+            "Id": 1,
+            "Name": "101. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_101"
+        },
+        {
+            "Id": 2,
+            "Name": "102. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_102"
+        },
+        {
+            "Id": 3,
+            "Name": "103. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_103"
+        },
+        {
+            "Id": 4,
+            "Name": "104. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_104"
+        },
+        {
+            "Id": 5,
+            "Name": "104. kabinets/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_104/1"
+        },
+        {
+            "Id": 6,
+            "Name": "105. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_105"
+        },
+        {
+            "Id": 7,
+            "Name": "106. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_106"
+        },
+        {
+            "Id": 8,
+            "Name": "107. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_107"
+        },
+        {
+            "Id": 9,
+            "Name": "pirmā stāva WC",
+            "FloorId": 1,
+            "Type": "WC",
+            "SvgId": "WC_1"
+        },
+        {
+            "Id": 10,
+            "Name": "110. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_110"
+        },
+        {
+            "Id": 11,
+            "Name": "111. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_111"
+        },
+        {
+            "Id": 12,
+            "Name": "112. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_112"
+        },
+        {
+            "Id": 13,
+            "Name": "112. kabinets/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_112/1"
+        },
+        {
+            "Id": 14,
+            "Name": "112. kabinets/2",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_112/2"
+        },
+        {
+            "Id": 15,
+            "Name": "113. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_113"
+        },
+        {
+            "Id": 16,
+            "Name": "114. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_114"
+        },
+        {
+            "Id": 17,
+            "Name": "115. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115"
+        },
+        {
+            "Id": 18,
+            "Name": "115. kabinets/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115/1"
+        },
+        {
+            "Id": 19,
+            "Name": "115. kabinets/2",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115/2"
+        },
+        {
+            "Id": 20,
+            "Name": "115. kabinets/3",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115/3"
+        },
+        {
+            "Id": 21,
+            "Name": "115. kabinets/4",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115/4"
+        },
+        {
+            "Id": 22,
+            "Name": "115. kabinets/5",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_115/5"
+        },
+        {
+            "Id": 23,
+            "Name": "116. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_116"
+        },
+        {
+            "Id": 24,
+            "Name": "117. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_117"
+        },
+        {
+            "Id": 25,
+            "Name": "118. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_118"
+        },
+        {
+            "Id": 26,
+            "Name": "119. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_119"
+        },
+        {
+            "Id": 27,
+            "Name": "119. kabinets/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_119/1"
+        },
+        {
+            "Id": 28,
+            "Name": "119. kabinets/2",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_119/2"
+        },
+        {
+            "Id": 29,
+            "Name": "120. kabinets",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_120"
+        },
+        {
+            "Id": 30,
+            "Name": "120. kabinets/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_120/1"
+        },
+        {
+            "Id": 31,
+            "Name": "120. kabinets/2",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_120/2"
+        },
+        {
+            "Id": 32,
+            "Name": "120. kabinets/3",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "kab_120/3"
+        },
+        {
+            "Id": 33,
+            "Name": "pirmā stāva WC/1",
+            "FloorId": 1,
+            "Type": "",
+            "SvgId": "WC_2"
+        },
+        {
+            "Id": 34,
+            "Name": "Info",
+            "FloorId": 1,
+            "Type": "Info",
+            "SvgId": "info"
+        },
+        {
+            "Id": 35,
+            "Name": "251. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_251"
+        },
+        {
+            "Id": 36,
+            "Name": "252. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_252"
+        },
+        {
+            "Id": 37,
+            "Name": "253. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_253"
+        },
+        {
+            "Id": 38,
+            "Name": "254. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_254"
+        },
+        {
+            "Id": 39,
+            "Name": "256. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_256"
+        },
+        {
+            "Id": 40,
+            "Name": "258. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_258"
+        },
+        {
+            "Id": 41,
+            "Name": "259. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_259"
+        },
+        {
+            "Id": 42,
+            "Name": "260. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_260"
+        },
+        {
+            "Id": 43,
+            "Name": "261. kabinets",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_261"
+        },
+        {
+            "Id": 44,
+            "Name": "Bibliotēka",
+            "FloorId": 2,
+            "Type": "Bibliotēka",
+            "SvgId": "kab_266"
+        },
+        {
+            "Id": 45,
+            "Name": "Bibliotēka/1",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_266/1"
+        },
+        {
+            "Id": 46,
+            "Name": "Bibliotēka/2",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_266/2"
+        },
+        {
+            "Id": 47,
+            "Name": "Bibliotēka/3",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "kab_266/3"
+        },
+        {
+            "Id": 48,
+            "Name": "Medpunkts",
+            "FloorId": 2,
+            "Type": "Medpunkts",
+            "SvgId": "kab_269"
+        },
+        {
+            "Id": 49,
+            "Name": "2. stāva WC",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "2WC_1"
+        },
+        {
+            "Id": 50,
+            "Name": "2. stāva WC/1",
+            "FloorId": 2,
+            "Type": "",
+            "SvgId": "2WC_2"
+        },
+        {
+            "Id": 51,
+            "Name": "Mazā zāle",
+            "FloorId": 3,
+            "Type": "Mazā zāle",
+            "SvgId": "kab_351"
+        },
+        {
+            "Id": 52,
+            "Name": "Skolas muzejs",
+            "FloorId": 3,
+            "Type": "Skolas muzejs",
+            "SvgId": "kab_356"
+        },
+        {
+            "Id": 53,
+            "Name": "Skolas muzejs/1",
+            "FloorId": 3,
+            "Type": "Skolas muzejs",
+            "SvgId": "kab_356/1"
+        },
+        {
+            "Id": 54,
+            "Name": "358. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_358"
+        },
+        {
+            "Id": 55,
+            "Name": "362. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_362"
+        },
+        {
+            "Id": 56,
+            "Name": "363. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_363"
+        },
+        {
+            "Id": 57,
+            "Name": "363. kabinets/1",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_363/1"
+        },
+        {
+            "Id": 58,
+            "Name": "364. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_364"
+        },
+        {
+            "Id": 59,
+            "Name": "364. kabinets/1",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_364/1"
+        },
+        {
+            "Id": 60,
+            "Name": "365. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_365"
+        },
+        {
+            "Id": 61,
+            "Name": "365. kabinets/1",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_365/1"
+        },
+        {
+            "Id": 62,
+            "Name": "366. kabinets",
+            "FloorId": 3,
+            "Type": "",
+            "SvgId": "kab_366"
+        },
+        {
+            "Id": 63,
+            "Name": "3. stāva WC",
+            "FloorId": 3,
+            "Type": "WC",
+            "SvgId": "WC_1"
+        },
+        {
+            "Id": 64,
+            "Name": "LK 1. stāva WC",
+            "FloorId": 4,
+            "Type": "WC",
+            "SvgId": "WC_1"
+        },
+        {
+            "Id": 65,
+            "Name": "105. kabinets",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_105"
+        },
+        {
+            "Id": 66,
+            "Name": "106. kabinets",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_106"
+        },
+        {
+            "Id": 67,
+            "Name": "107. kabinets",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_107"
+        },
+        {
+            "Id": 68,
+            "Name": "108. kabinets",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_108"
+        },
+        {
+            "Id": 69,
+            "Name": "108. kabinets/1",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_108/1"
+        },
+        {
+            "Id": 70,
+            "Name": "108. kabinets/2",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_108/2"
+        },
+        {
+            "Id": 71,
+            "Name": "108. kabinets/3",
+            "FloorId": 4,
+            "Type": "",
+            "SvgId": "kab_108/3"
+        },
+        {
+            "Id": 72,
+            "Name": "202. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_202"
+        },
+        {
+            "Id": 73,
+            "Name": "203. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_203"
+        },
+        {
+            "Id": 74,
+            "Name": "204. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_204"
+        },
+        {
+            "Id": 75,
+            "Name": "205. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_205"
+        },
+        {
+            "Id": 76,
+            "Name": "2. stāva sieviešu WC",
+            "FloorId": 5,
+            "Type": "WC",
+            "SvgId": "WC_2_S"
+        },
+        {
+            "Id": 77,
+            "Name": "208. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_208"
+        },
+        {
+            "Id": 78,
+            "Name": "209. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_209"
+        },
+        {
+            "Id": 79,
+            "Name": "210. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_210"
+        },
+        {
+            "Id": 80,
+            "Name": "211. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_211"
+        },
+        {
+            "Id": 81,
+            "Name": "212. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_212"
+        },
+        {
+            "Id": 82,
+            "Name": "213. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_213"
+        },
+        {
+            "Id": 83,
+            "Name": "2. stāva vīriešu WC",
+            "FloorId": 5,
+            "Type": "WC",
+            "SvgId": "WC_2_V"
+        },
+        {
+            "Id": 84,
+            "Name": "215. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_215"
+        },
+        {
+            "Id": 85,
+            "Name": "216. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_216"
+        },
+        {
+            "Id": 86,
+            "Name": "216. kabinets/1",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_216/1"
+        },
+        {
+            "Id": 87,
+            "Name": "218. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_218"
+        },
+        {
+            "Id": 88,
+            "Name": "219. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_219"
+        },
+        {
+            "Id": 89,
+            "Name": "220. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_220"
+        },
+        {
+            "Id": 90,
+            "Name": "221. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_221"
+        },
+        {
+            "Id": 91,
+            "Name": "222. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_222"
+        },
+        {
+            "Id": 92,
+            "Name": "222. kabinets/1",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_222/1"
+        },
+        {
+            "Id": 93,
+            "Name": "223. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_223"
+        },
+        {
+            "Id": 94,
+            "Name": "224. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_224"
+        },
+        {
+            "Id": 95,
+            "Name": "225. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_225"
+        },
+        {
+            "Id": 96,
+            "Name": "226. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_226"
+        },
+        {
+            "Id": 97,
+            "Name": "227. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_227"
+        },
+        {
+            "Id": 98,
+            "Name": "228. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_228"
+        },
+        {
+            "Id": 99,
+            "Name": "229. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_229"
+        },
+        {
+            "Id": 100,
+            "Name": "230. kabinets",
+            "FloorId": 5,
+            "Type": "",
+            "SvgId": "kab_230"
+        },
+        {
+            "Id": 101,
+            "Name": "302. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_302"
+        },
+        {
+            "Id": 102,
+            "Name": "303. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_303"
+        },
+        {
+            "Id": 103,
+            "Name": "3. stāva sieviešu WC",
+            "FloorId": 6,
+            "Type": "WC",
+            "SvgId": "WC_3_S"
+        },
+        {
+            "Id": 104,
+            "Name": "307. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_307"
+        },
+        {
+            "Id": 105,
+            "Name": "308. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_308"
+        },
+        {
+            "Id": 106,
+            "Name": "309. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_309"
+        },
+        {
+            "Id": 107,
+            "Name": "310. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_310"
+        },
+        {
+            "Id": 108,
+            "Name": "311. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_311"
+        },
+        {
+            "Id": 109,
+            "Name": "311. kabinets/1",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_311/1"
+        },
+        {
+            "Id": 110,
+            "Name": "3. stāva vīriešu WC",
+            "FloorId": 6,
+            "Type": "WC",
+            "SvgId": "WC_3_V"
+        },
+        {
+            "Id": 111,
+            "Name": "315. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_315"
+        },
+        {
+            "Id": 112,
+            "Name": "316. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_316"
+        },
+        {
+            "Id": 113,
+            "Name": "316. kabinets/1",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_316/1"
+        },
+        {
+            "Id": 114,
+            "Name": "317. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_317"
+        },
+        {
+            "Id": 115,
+            "Name": "318. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_318"
+        },
+        {
+            "Id": 116,
+            "Name": "319. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_319"
+        },
+        {
+            "Id": 117,
+            "Name": "320. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_320"
+        },
+        {
+            "Id": 118,
+            "Name": "321. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_321"
+        },
+        {
+            "Id": 119,
+            "Name": "322. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_322"
+        },
+        {
+            "Id": 120,
+            "Name": "322. kabinets/1",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_322/1"
+        },
+        {
+            "Id": 121,
+            "Name": "323. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_323"
+        },
+        {
+            "Id": 122,
+            "Name": "324. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_324"
+        },
+        {
+            "Id": 123,
+            "Name": "325. kabinets",
+            "FloorId": 6,
+            "Type": "",
+            "SvgId": "kab_325"
+        },
+        {
+            "Id": 124,
+            "Name": "402. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_402"
+        },
+        {
+            "Id": 125,
+            "Name": "403. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_403"
+        },
+        {
+            "Id": 126,
+            "Name": "404. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_404"
+        },
+        {
+            "Id": 127,
+            "Name": "4. stāva sieviešu WC",
+            "FloorId": 7,
+            "Type": "WC",
+            "SvgId": "WC_4_S"
+        },
+        {
+            "Id": 128,
+            "Name": "408. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_408"
+        },
+        {
+            "Id": 129,
+            "Name": "409. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_409"
+        },
+        {
+            "Id": 130,
+            "Name": "410. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_410"
+        },
+        {
+            "Id": 131,
+            "Name": "411. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_411"
+        },
+        {
+            "Id": 132,
+            "Name": "412. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_412"
+        },
+        {
+            "Id": 133,
+            "Name": "415. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_415"
+        },
+        {
+            "Id": 134,
+            "Name": "4. stāva vīriešu WC",
+            "FloorId": 7,
+            "Type": "WC",
+            "SvgId": "WC_4_V"
+        },
+        {
+            "Id": 135,
+            "Name": "416. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_416"
+        },
+        {
+            "Id": 136,
+            "Name": "416. kabinets/1",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_416/1"
+        },
+        {
+            "Id": 137,
+            "Name": "417. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_417"
+        },
+        {
+            "Id": 138,
+            "Name": "418. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_418"
+        },
+        {
+            "Id": 139,
+            "Name": "419. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_419"
+        },
+        {
+            "Id": 140,
+            "Name": "420. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_420"
+        },
+        {
+            "Id": 141,
+            "Name": "421. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_421"
+        },
+        {
+            "Id": 142,
+            "Name": "422. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_422"
+        },
+        {
+            "Id": 143,
+            "Name": "423. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_423"
+        },
+        {
+            "Id": 144,
+            "Name": "424. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_424"
+        },
+        {
+            "Id": 145,
+            "Name": "425. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_425"
+        },
+        {
+            "Id": 146,
+            "Name": "426. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_426"
+        },
+        {
+            "Id": 147,
+            "Name": "427. kabinets",
+            "FloorId": 7,
+            "Type": "",
+            "SvgId": "kab_427"
+        },
+        {
+            "Id": 148,
+            "Name": "502. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_502"
+        },
+        {
+            "Id": 149,
+            "Name": "503. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_503"
+        },
+        {
+            "Id": 150,
+            "Name": "504. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_504"
+        },
+        {
+            "Id": 151,
+            "Name": "5. stāva sieviešu WC",
+            "FloorId": 8,
+            "Type": "WC",
+            "SvgId": "WC_5_S"
+        },
+        {
+            "Id": 152,
+            "Name": "507. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_507"
+        },
+        {
+            "Id": 153,
+            "Name": "508. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_508"
+        },
+        {
+            "Id": 154,
+            "Name": "509. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_509"
+        },
+        {
+            "Id": 155,
+            "Name": "510. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_510"
+        },
+        {
+            "Id": 156,
+            "Name": "511. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_511"
+        },
+        {
+            "Id": 157,
+            "Name": "512. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_512"
+        },
+        {
+            "Id": 158,
+            "Name": "5. stāva vīriešu WC",
+            "FloorId": 8,
+            "Type": "WC",
+            "SvgId": "WC_5_V"
+        },
+        {
+            "Id": 159,
+            "Name": "515. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_515"
+        },
+        {
+            "Id": 160,
+            "Name": "516. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_516"
+        },
+        {
+            "Id": 161,
+            "Name": "516. kabinets/1",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_516/1"
+        },
+        {
+            "Id": 162,
+            "Name": "517. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_517"
+        },
+        {
+            "Id": 163,
+            "Name": "518. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_518"
+        },
+        {
+            "Id": 164,
+            "Name": "519. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_519"
+        },
+        {
+            "Id": 165,
+            "Name": "520. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_520"
+        },
+        {
+            "Id": 166,
+            "Name": "521. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_521"
+        },
+        {
+            "Id": 167,
+            "Name": "522. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_522"
+        },
+        {
+            "Id": 168,
+            "Name": "523. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_523"
+        },
+        {
+            "Id": 169,
+            "Name": "524. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_524"
+        },
+        {
+            "Id": 170,
+            "Name": "525. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_525"
+        },
+        {
+            "Id": 171,
+            "Name": "526. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_526"
+        },
+        {
+            "Id": 172,
+            "Name": "527. kabinets",
+            "FloorId": 8,
+            "Type": "",
+            "SvgId": "kab_527"
+        },
+        {
+            "Id": 173,
+            "Name": "602. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_602"
+        },
+        {
+            "Id": 174,
+            "Name": "603. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_603"
+        },
+        {
+            "Id": 175,
+            "Name": "604. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_604"
+        },
+        {
+            "Id": 176,
+            "Name": "605. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_605"
+        },
+        {
+            "Id": 177,
+            "Name": "606. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_606"
+        },
+        {
+            "Id": 178,
+            "Name": "6. stāva sieviešu WC",
+            "FloorId": 9,
+            "Type": "WC",
+            "SvgId": "WC_6_S"
+        },
+        {
+            "Id": 179,
+            "Name": "608. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_608"
+        },
+        {
+            "Id": 180,
+            "Name": "608. kabinets/1",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_608/1"
+        },
+        {
+            "Id": 181,
+            "Name": "609. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_609"
+        },
+        {
+            "Id": 182,
+            "Name": "610. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_610"
+        },
+        {
+            "Id": 183,
+            "Name": "611. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_611"
+        },
+        {
+            "Id": 184,
+            "Name": "6. stāva vīriešu WC",
+            "FloorId": 9,
+            "Type": "WC",
+            "SvgId": "WC_6_V"
+        },
+        {
+            "Id": 185,
+            "Name": "614. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_614"
+        },
+        {
+            "Id": 186,
+            "Name": "615. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_615"
+        },
+        {
+            "Id": 187,
+            "Name": "615. kabinets/1",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_615/1"
+        },
+        {
+            "Id": 188,
+            "Name": "616. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_616"
+        },
+        {
+            "Id": 189,
+            "Name": "617. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_617"
+        },
+        {
+            "Id": 190,
+            "Name": "618. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_618"
+        },
+        {
+            "Id": 191,
+            "Name": "619. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_619"
+        },
+        {
+            "Id": 192,
+            "Name": "620. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_620"
+        },
+        {
+            "Id": 193,
+            "Name": "621. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_621"
+        },
+        {
+            "Id": 194,
+            "Name": "622. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_622"
+        },
+        {
+            "Id": 195,
+            "Name": "623. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_623"
+        },
+        {
+            "Id": 196,
+            "Name": "624. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_624"
+        },
+        {
+            "Id": 197,
+            "Name": "625. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_625"
+        },
+        {
+            "Id": 198,
+            "Name": "626. kabinets",
+            "FloorId": 9,
+            "Type": "",
+            "SvgId": "kab_626"
+        },
+        {
+            "Id": 199,
+            "Name": "Lielā zāle",
+            "FloorId": 10,
+            "Type": "",
+            "SvgId": "big_hall"
+        },
+        {
+            "Id": 200,
+            "Name": "Skolas ēdnīca",
+            "FloorId": 10,
+            "Type": "",
+            "SvgId": "dining_hall"
+        },
+        {
+            "Id": 201,
+            "Name": "1. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_1"
+        },
+        {
+            "Id": 202,
+            "Name": "2. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_2"
+        },
+        {
+            "Id": 203,
+            "Name": "4. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_4"
+        },
+        {
+            "Id": 204,
+            "Name": "5. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_5"
+        },
+        {
+            "Id": 205,
+            "Name": "6. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_6"
+        },
+        {
+            "Id": 206,
+            "Name": "7. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_7"
+        },
+        {
+            "Id": 207,
+            "Name": "8. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_8"
+        },
+        {
+            "Id": 208,
+            "Name": "Darbnīcas WC/1",
+            "FloorId": 11,
+            "Type": "WC",
+            "SvgId": "WC_1"
+        },
+        {
+            "Id": 209,
+            "Name": "Darbnīcas WC/2",
+            "FloorId": 11,
+            "Type": "WC",
+            "SvgId": "WC_2"
+        },
+        {
+            "Id": 210,
+            "Name": "10. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_10"
+        },
+        {
+            "Id": 211,
+            "Name": "11. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_11"
+        },
+        {
+            "Id": 212,
+            "Name": "12. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_12"
+        },
+        {
+            "Id": 213,
+            "Name": "13. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_13"
+        },
+        {
+            "Id": 214,
+            "Name": "14. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_14"
+        },
+        {
+            "Id": 215,
+            "Name": "15. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_15"
+        },
+        {
+            "Id": 216,
+            "Name": "17. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_17"
+        },
+        {
+            "Id": 217,
+            "Name": "18. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_18"
+        },
+        {
+            "Id": 218,
+            "Name": "19. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_19"
+        },
+        {
+            "Id": 219,
+            "Name": "20. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_20"
+        },
+        {
+            "Id": 220,
+            "Name": "21. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_21"
+        },
+        {
+            "Id": 221,
+            "Name": "22. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_22"
+        },
+        {
+            "Id": 222,
+            "Name": "23. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_23"
+        },
+        {
+            "Id": 223,
+            "Name": "25. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_25"
+        },
+        {
+            "Id": 224,
+            "Name": "26. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_26"
+        },
+        {
+            "Id": 225,
+            "Name": "27. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_27"
+        },
+        {
+            "Id": 226,
+            "Name": "28. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_28"
+        },
+        {
+            "Id": 227,
+            "Name": "30. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_30"
+        },
+        {
+            "Id": 228,
+            "Name": "31. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_31"
+        },
+        {
+            "Id": 229,
+            "Name": "32. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_32"
+        },
+        {
+            "Id": 230,
+            "Name": "33. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_33/34"
+        },
+        {
+            "Id": 231,
+            "Name": "35. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_35"
+        },
+        {
+            "Id": 232,
+            "Name": "36. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_36"
+        },
+        {
+            "Id": 233,
+            "Name": "37. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_37/38"
+        },
+        {
+            "Id": 234,
+            "Name": "39. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_39"
+        },
+        {
+            "Id": 235,
+            "Name": "41. kabinets",
+            "FloorId": 11,
+            "Type": "",
+            "SvgId": "kab_41"
+        }
+    ],
+    "subjects": [
+        {
+            "Id": 1,
+            "name": "Mācību telpa"
+        },
+        {
+            "Id": 2,
+            "name": "Datoru telpa"
+        },
+        {
+            "Id": 3,
+            "name": "Administrācijas telpa"
+        },
+        {
+            "Id": 4,
+            "name": "Darbinieku telpa"
+        }
+    ]
+}

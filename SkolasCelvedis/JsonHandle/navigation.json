@@ -1,0 +1,28 @@
+[
+    {
+        "SVGFile": "first_floor.svg",
+        "Waypoints": [
+            {
+                "Id": "origin",
+                "X": 44.270,
+                "Y": 95.932,
+                "Connections": [ "wp_1" ]
+            },
+            {
+                "Id": "wp_1",
+                "X": 55.0,
+                "Y": 97.932,
+                "Connections": [ "origin", "wp_2" ]
+            },
+            {
+                "Id": "wp_2",
+                "X": 80.0,
+                "Y": 97.932,
+                "Connections": [ "wp_1" ]
+            }
+        ],
+        "RoomEntries": {
+            "kab_101": "wp_2"
+        }
+    }
+]
